@@ -71,9 +71,9 @@ $object = new Tools();
           <ul class="nav navbar-nav navbar-right">
               <li class="active"><a href="./">Home</a></li>
               <li class="active"><a href="blacklist.php">Black List</a></li>
-              <li class="active"><a href="http://goo.gl/hKTmM2" target="_blank">GitHub</a></li>
-              <li class="active"><a target="_blank" href="https://github.com/GeekyTheory/Automatic-API-REST/wiki">Wiki</a></li>
-              <li class="active"><a target="_blank" href="https://github.com/GeekyTheory/Automatic-API-REST/issues">Issues</a></li>
+              <li class="active"><a href="https://github.com/ismaelperez8411/autoapirest" target="_blank">GitHub</a></li>
+              <li class="active"><a target="_blank" href="https://github.com/ismaelperez8411/autoapirest/wiki">Wiki</a></li>
+              <li class="active"><a target="_blank" href="https://github.com/ismaelperez8411/autoapirest/issues">Issues</a></li>
               <li class="active"><a href="close.php">Close</a></li>
           </ul>
         </div><!--/.nav-collapse -->
