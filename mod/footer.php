@@ -104,10 +104,10 @@
                     <p style="text-align: left;">License: <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a></p>
                 </div>
                 <div class="col-sm-4">
-                    <p style="text-align: center;">Copyright 2014 <a target="_blank" href="http://geekytheory.com">GeekyTheory</a></p>
+                    <p style="text-align: center;">Copyright 2020 <a target="_blank" href="https://github.com/ismaelperez8411">GeekyTheory</a></p>
                 </div>
                 <div class="col-sm-4">
-                    <p style="text-align: right;">Developed By <a target="_blank" href="http://twitter.com/alex_esquiva">@alex_esquiva</a></p>
+                    <p style="text-align: right;">Developed By <a target="_blank" href="mailto:ismael.perez8411@gmail.com">ismael.perez8411@gmail.com</a></p>
                 </div>
             </div>
         </div>
