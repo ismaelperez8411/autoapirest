@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<BLACK_LIST><ITEM ID="1"><TYPE>G</TYPE><TABLE>admin.tb_menus</TABLE><COLUMN>id</COLUMN></ITEM></BLACK_LIST>
